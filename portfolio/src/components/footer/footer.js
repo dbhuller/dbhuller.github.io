@@ -12,8 +12,8 @@ export default class Footer extends Component {
                     <li><a href="#"><i className="fa fa-github" /></a></li>
                   </ul>
                   <ul className="copyright">
-                    <li>© Copyright 2014 CeeVee</li>
-                    <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
+                    <li>© Copyright 2020 Deep Bhuller</li>
+                    <li>Design by Deep Bhuller</li>   
                   </ul>
                 </div>
                 <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
